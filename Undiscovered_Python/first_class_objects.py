@@ -4,7 +4,9 @@ import subprocess
 
 def print_function(func):
 
-    print(func(2, 3))
+    first_num = 2
+    second_num = 3
+    print(func(first_num, second_num))
 
 
 def sum_of_two_numbers(*args):
