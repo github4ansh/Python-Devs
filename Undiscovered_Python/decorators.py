@@ -9,7 +9,7 @@ def calculate_execution_time_of_function(func):
         print(f'START TIME: function: {func} with argument as: {func.__name__}({kwargs["name"]})')
         st = time.perf_counter()
         output = func(*args, **kwargs)
-        time.sleep(.5)
+        time.sleep(2)
         et = time.perf_counter()
         print(f'FINISH TIME: function: {func} with argument as: {func.__name__}({kwargs["name"]})')
         print(f'Total elapsed time for execution of function: {round(et - st, 2)} secs.')
