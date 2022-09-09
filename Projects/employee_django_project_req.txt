@@ -1,0 +1,21 @@
+- Setup Django Project
+- Use postgres Database:
+  - Username - postgres
+  - Password - postgres
+  - port - 5432
+  - hostname - localhost
+
+
+- Database name - Employees
+- Table Name - Employee Information
+
+first_name
+last_name
+designation
+phone no.
+email address
+
+*Note - Database tables to be created from model defined within the 
+scripts itself use makemigrations and migrate commands
+
+- Django Template:  Displaying employee information in tabular format
