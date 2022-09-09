@@ -7,6 +7,7 @@ Repository contains pure **python** based developments which are organised in fo
 - Object-Oriented Programming (Classes and Design patterns)
 - Threading Implementations
 - Python's power (less known yet powerful and needy!)
-- Python testing framework unittest usage 
+- Python testing framework unittest usage
+- Python based projects (built on top off emerging frameworks)
 
 But guys, recipe is still cooking....:plate_with_cutlery:, as there are no limits :infinity: to discovering and learning something **new**
